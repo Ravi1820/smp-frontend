@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "688363081843",
+    "firebase_url": "https://myplace-4d487-default-rtdb.firebaseio.com",
+    "project_id": "myplace-4d487",
+    "storage_bucket": "myplace-4d487.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688363081843:android:339fb69d0aef8789651a06",
+        "android_client_info": {
+          "package_name": "com.secureMyPlace.SMP"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-f3n7WprXIFvkqiN63tu-6WShPQ4AGds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688363081843:android:ebe8168a5387d9b6651a06",
+        "android_client_info": {
+          "package_name": "com.secureMyPlace.SMP"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-f3n7WprXIFvkqiN63tu-6WShPQ4AGds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

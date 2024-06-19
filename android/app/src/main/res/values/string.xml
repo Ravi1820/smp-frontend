@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="notification_channel_id">com.secureMyPlace.SMP.urgent</string>
+    <string name="custom_sound">sound2.mp3</string>
+    <string name="notification_channel_id_1">com.secureMyPlace.SMP.urgent</string>
+    <string name="custom_sound_1">sound4.mp3</string>
+	    <string name="notification_channel_id_2">com.secureMyPlace.SMP.urgent</string>
+    <string name="custom_sound_2">sound3.mp3</string>
+</resources>
+<!-- <resources>
+	<string name="notification_channel_id">
+		com.secureMyPlace.SMP.urgent
+	</string>
+	<string name="custom_sound">
+		sound1.mp3
+	</string>
+</resources>
+<resources>
+	<string name="notification_channel_id_1">
+		com.secureMyPlace.SMP.urgent
+	</string>
+	<string name="custom_sound">
+		emergency.mp3
+	</string>
+</resources> -->

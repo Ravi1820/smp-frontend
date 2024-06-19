@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "block": "Block A",
+        "floor": [
+            {
+                "id": 28,
+                "block_id": 1,
+                "name": "Floor 01",
+                "flat": [
+                    {
+                        "id": 29,
+                        "floor_id": 28,
+                        "name": "Flat 93",
+                        "owner": [
+                            {
+                                "id": 239,
+                                "flat_id": 29,
+                                "name": "Ravi j",
+                                "fullName": "Ravi jemini"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 59,
+                        "floor_id": 28,
+                        "name": "Flat 23",
+                        "owner": [
+                            {
+                                "id": 209,
+                                "flat_id": 29,
+                                "name": "Biswajet",
+                                "fullName": "Biswajet"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 28,
+                "block_id": 1,
+                "name": "Floor 02",
+                "flat": [
+                    {
+                        "id": 29,
+                        "floor_id": 28,
+                        "name": "Flat 93",
+                        "owner": [
+                            {
+                                "id": 239,
+                                "flat_id": 29,
+                                "name": "Ravi j",
+                                "fullName": "Ravi jemini"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 59,
+                        "floor_id": 28,
+                        "name": "Flat 23",
+                        "owner": [
+                            {
+                                "id": 209,
+                                "flat_id": 29,
+                                "name": "Biswajet",
+                                "fullName": "Biswajet"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 28,
+                "block_id": 1,
+                "name": "Floor 03",
+                "flat": [
+                    {
+                        "id": 29,
+                        "floor_id": 28,
+                        "name": "Flat 93",
+                        "owner": [
+                            {
+                                "id": 239,
+                                "flat_id": 29,
+                                "name": "Ravi j",
+                                "fullName": "Ravi jemini"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 59,
+                        "floor_id": 28,
+                        "name": "Flat 23",
+                        "owner": [
+                            {
+                                "id": 209,
+                                "flat_id": 29,
+                                "name": "Biswajet",
+                                "fullName": "Biswajet"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 28,
+                "block_id": 1,
+                "name": "Floor 04",
+                "flat": [
+                    {
+                        "id": 29,
+                        "floor_id": 28,
+                        "name": "Flat 93",
+                        "owner": [
+                            {
+                                "id": 239,
+                                "flat_id": 29,
+                                "name": "Ravi j",
+                                "fullName": "Ravi jemini"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 59,
+                        "floor_id": 28,
+                        "name": "Flat 23",
+                        "owner": [
+                            {
+                                "id": 209,
+                                "flat_id": 29,
+                                "name": "Biswajet",
+                                "fullName": "Biswajet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "block": "Block B",
+        "floor": [
+            {
+                "id": 17,
+                "block_id": 1,
+                "name": "Floor 49",
+                "flat": [
+                    {
+                        "id": 87,
+                        "floor_id": 6,
+                        "name": "Flat 43",
+                        "owner": [
+                            {
+                                "id": 279,
+                                "flat_id": 87,
+                                "name": "Purnendu",
+                                "fullName": "Purnendu Das"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "block": "Block B2",
+        "floor": [
+            {
+                "id": 17,
+                "block_id": 3,
+                "name": "Floor 49",
+                "flat": [
+                    {
+                        "id": 87,
+                        "floor_id": 6,
+                        "name": "Flat 43",
+                        "owner": [
+                            {
+                                "id": 279,
+                                "flat_id": 87,
+                                "name": "Ajay",
+                                "fullName": "Ajay B "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "block": "Block A5",
+        "floor": [
+            {
+                "id": 17,
+                "block_id": 4,
+                "name": "Floor 23",
+                "flat": [
+                    {
+                        "id": 87,
+                        "floor_id": 6,
+                        "name": "Flat 43",
+                        "owner": [
+                            {
+                                "id": 279,
+                                "flat_id": 87,
+                                "name": "Suresh",
+                                "fullName": "Suresh V"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

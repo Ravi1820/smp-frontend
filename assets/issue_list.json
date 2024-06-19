@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "block": "Block A",
+        "issueMessage": "Lift is not working",
+        "status": "Pending",
+        "priority": "High",
+        "category": "Electricity"
+    },
+    {
+        "id": 2,
+        "block": "Block B",
+        "issueMessage": "Lift is not working4",
+        "status": "Resolved",
+        "priority": "Low",
+        "category": "Cleaning"
+    },
+    {
+        "id": 3,
+        "block": "Block B2",
+        "issueMessage": "Lift is not working2",
+        "priority": "Medium",
+        "status": "Progress",
+        "category": "Parking"
+    }
+]

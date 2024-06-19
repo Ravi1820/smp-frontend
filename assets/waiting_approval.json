@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "block": "Block A",
+        "blockId": 1,
+        "floor": "10",
+        "floorId": 1,
+        "flat": "202",
+        "flatId": 1,
+        "fullName": "Ravi",
+        "phone": "9493939393",
+        "email": "ravi@gmail.com",
+        "type": "Owner",
+        "status": "Waiting"
+    },
+    {
+        "id": 2,
+        "block": "Block B",
+        "blockId": 2,
+        "floor": "12",
+        "floorId": 2,
+        "flat": "402",
+        "flatId": 2,
+        "fullName": "Biswa",
+        "phone": "4494949494",
+        "email": "biswa@gmail.com",
+        "type": "Tenent",
+        "status": "Waiting"
+    }
+]

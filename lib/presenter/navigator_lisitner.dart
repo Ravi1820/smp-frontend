@@ -1,0 +1,3 @@
+mixin NavigatorListener {
+  onNavigatorBackPressed();
+}
